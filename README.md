@@ -1,7 +1,6 @@
 # Convolutional and Recurrent Neural Network Project (DELE)
 
-**Author**: Kaung Myat San (P2408655)  
-**Course**: DAAA/FT/2B/22  
+**Author**: Kaung Myat San
 **Institution**: Singapore Polytechnic  
 **Date**: May 2025
 
